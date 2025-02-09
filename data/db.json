@@ -1,5 +1,5 @@
 {
-  "Portofolio": [
+   
     {
       "id": 1,
       "title": "Thistlegorm Wreck",
@@ -72,5 +72,5 @@
       "src": "/Assets/images/hicking3.jpg",
       "service": "hiking"
     }
-  ]
+  
 }
